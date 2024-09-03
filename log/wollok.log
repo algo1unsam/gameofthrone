@@ -1,0 +1,12 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":161,"timestamp":"2024-09-03T15:37:41.291Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/leon/Work/ALGO1/2024/Workspace/gameofthrone","timestamp":"2024-09-03T15:37:41.294Z"}
+{"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:38:56.603Z"}
+{"level":"info","message":"⌛ Validating gameOfThrone.wlk","timeElapsed":204,"timestamp":"2024-09-03T15:38:58.613Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":215,"timestamp":"2024-09-03T15:39:02.819Z"}
+{"level":"info","message":"onRequest - STRONG_FILES_CHANGED:/home/leon/Work/ALGO1/2024/Workspace/gameofthrone/gameOfThrone.wtest","timestamp":"2024-09-03T15:40:07.615Z"}
+{"level":"info","message":"Removing diagnostics from /home/leon/Work/ALGO1/2024/Workspace/gameofthrone/gameOfThrone.wtest","timestamp":"2024-09-03T15:40:07.936Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/leon/Work/ALGO1/2024/Workspace/gameofthrone","timestamp":"2024-09-03T15:40:07.937Z"}
+{"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:42:16.694Z"}
+{"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:42:16.922Z"}
+{"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:42:16.998Z"}
+{"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-09-03T15:42:17.409Z"}
